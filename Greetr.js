@@ -5,6 +5,8 @@
         language){
     }
 
+    var supportedLangs = ['en', 'es'];
+    
     Greetr.prototype = {};
 
     Greetr.init = function(
